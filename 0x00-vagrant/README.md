@@ -1,1 +1,1 @@
-coding is fun!
+My first vagrant installation
